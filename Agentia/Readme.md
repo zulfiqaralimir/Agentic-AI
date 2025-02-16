@@ -37,10 +37,8 @@ Monetize Agentic AI: Teaching + AI Agents as Components + Freelancing + Agentic 
 
 
 ---
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/48dc13c2-f78b-477b-91a2-d5285703fe5c)
 
-
-![Architecture](arch.jpeg)
 
 Reference:
 
