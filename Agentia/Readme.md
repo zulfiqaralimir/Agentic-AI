@@ -1,5 +1,5 @@
 # Welcome to "Agentia: The World of Autonomous AI and Agentic Web"
-
+https://github.com/panaversity/learn-agentic-ai/blob/main/13_agentia/readme.md
 
 Imagine a world where **everything** is an AI agent, from your coffee machine to your car, from businesses to entire cities. This world, which we’ll call *Agentia*, functions as a seamless ecosystem of autonomous agents communicating, negotiating, and collaborating without traditional REST APIs. Instead of invoking endpoints, these agents engage in intelligent dialogues, powered by advanced LLMs and agentic frameworks.
 
